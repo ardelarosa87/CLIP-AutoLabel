@@ -19,7 +19,8 @@ The pipeline tackles this challenge by automating the data labeling process, wit
 CLIP (Contrastive Language–Image Pre-training) is a neural network, which efficiently learns visual concepts from natural language supervision. CLIP is trained on a vast dataset of images and
 corresponding textual descriptions. This training enables the model to learn the relationships between text and images, essentially understanding how specific visual elements in images correlate with the words and phrases used to describe them. By combining text and image CLIP has a broad generalization from the training data to a wide variety of real-world tasks, even those it wasn't explicitly trained on. CLIP can applied to visual classification by providing the names and visual categories to be recognized. 
 
-![**OpenAI CLIP Research Page:** [OpenAI CLIP Research](https://openai.com/research/clip)](images_for_documentation/Clip_Overview.png)
+![CLIP OVerview](images_for_documentation/Clip_Overview.png)
+**OpenAI CLIP Research Page:** [OpenAI CLIP Research](https://openai.com/research/clip)
 
 ## How It Works
 
