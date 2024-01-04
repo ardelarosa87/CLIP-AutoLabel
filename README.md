@@ -10,9 +10,16 @@ Welcome to our repository, where we address a critical challenge in the field of
 
 In projects involving image classification and object detection mechanisms like YOLO (You Only Look Once), obtaining accurately labeled data is often a significant bottleneck. Manually labeling datasets can be labor-intensive and time-consuming, impeding the development and accuracy of machine learning models.
 
-## Our Solution
+## Solution
 
-Our pipeline tackles this challenge by automating the data labeling process, with the OpenAI CLIP model at its core. Known for its ability to understand and categorize images based on textual descriptions, CLIP enables us to correlate text and images effectively.
+The pipeline tackles this challenge by automating the data labeling process, with the OpenAI CLIP model at its core. Known for its ability to understand and categorize images based on textual descriptions, CLIP enables us to correlate text and images effectively.
+
+### CLIP
+
+CLIP (Contrastive Language–Image Pre-training) is a neural network, which efficiently learns visual concepts from natural language supervision. CLIP is trained on a vast dataset of images and
+corresponding textual descriptions. This training enables the model to learn the relationships between text and images, essentially understanding how specific visual elements in images correlate with the words and phrases used to describe them. By combining text and image CLIP has a broad generalization from the training data to a wide variety of real-world tasks, even those it wasn't explicitly trained on. CLIP can applied to visual classification by providing the names and visual categories to be recognized. 
+
+![**OpenAI CLIP Research Page:** [OpenAI CLIP Research](https://openai.com/research/clip)](images_for_documentation/Clip_Overview.png)
 
 ## How It Works
 
