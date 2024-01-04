@@ -1,1 +1,1 @@
-# CLIP-AutoLabel
+# Automated Data Labeling Using CLIP
