@@ -21,3 +21,13 @@ The pipeline operates by leveraging CLIP's unique capability to correlate text a
 The primary objective of this pipeline is to streamline and optimize the data preparation phase for image classification and object detection tasks. By automating the labeling process, we aim to expedite the development of machine learning models, enabling them to be trained on well-labeled, diverse datasets with minimal human intervention.
 
 We invite you to explore our repository, contribute, and leverage this pipeline for your image classification and object detection projects.
+
+
+## Resources
+
+To understand more about the OpenAI CLIP model and to delve deeper into its technical aspects and potential applications, the following resources are invaluable:
+
+1. **OpenAI CLIP Research Page**: This page hosted by OpenAI provides comprehensive details about the CLIP model, including research papers, model architecture, and various use-cases. It's an excellent resource for anyone looking to understand the theoretical foundation of CLIP. [OpenAI CLIP Research](https://openai.com/research/clip)
+
+2. **CLIP GitHub Repository**: For those interested in the practical implementation of CLIP, the official GitHub repository is the go-to resource. It contains the codebase, usage instructions, and additional documentation to help you get started with integrating CLIP into your projects. [CLIP on GitHub](https://github.com/openai/CLIP/tree/main)
+
